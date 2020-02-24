@@ -2,9 +2,9 @@
   "name": "nodeuploads",
   "version": "1.0.0",
   "description": "Example for image uploading in Node",
-  "main": "app.js",
+  "main": "cluster.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node cluster.js"
   },
   "author": "",
   "license": "ISC",
